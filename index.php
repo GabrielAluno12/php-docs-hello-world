@@ -7,6 +7,7 @@
     html, body {
       margin: 0;
       padding: 0;
+      overflow-y: hidden;
       overflow-x: hidden;
       max-width: 100%;
       font-family: Arial, sans-serif;
